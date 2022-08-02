@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stunning Landing page</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="l1">
+          <img src="./stunning-logo.png" alt="logo" />
+        </div>
+        <div class="navlinks">
+          <span>Home </span>
+          <span>About </span>
+          <span>Blog </span>
+          <span>Jobs </span>
+        </div>
+        <button class="a1">Your Account</button>
+      </nav>
+    </header>
+    <main>
+      <div class="conent">
+        <div class="left-side">
+          <h1>Stunning <br />Workplace.</h1>
+         <p>
+            With Stunning ,remote teams can organize projects,manage shifting
+            priorities and get work done
+          </p>
+          <div class="group">
+            <button class="nbtn">New Account</button>
+            <img src="./arrow-up.png" alt="" />
+            <img src="./arrow-down.png" alt="" />
+          </div>
+
+          <div>
+            <div class="c-conent">
+              <div class="cb"><div id="tmark"></div></div>
+              <div class="D">Dmm design</div>
+              <div class="ui"><img src="./user-pink.png" alt="" /></div>
+              <div class="date">22 Dec</div>
+              <div class="oval" id="pink"></div>
+            </div>
+            <div class="c-conent">
+              <div class="cb"><div id="tmark"></div></div>
+              <div class="D">Blur animation</div>
+              <div class="ui"><img src="./user-orange.png" alt="" /></div>
+              <div class="date">28 Dec</div>
+              <div class="oval" id="red"></div>
+            </div>
+            <div class="c-conent">
+              <div class="cb"><div id="tmark"></div></div>
+              <div class="D">Illustration</div>
+              <div class="ui"><img src="./user-blue.png" alt="" /></div>
+              <div class="date">28 Dec</div>
+              <div class="oval" id="green"></div>
+            </div>
+            <div class="c-conent">
+              <div class="cb"><div id="tmark"></div></div>
+              <div class="D">Refunds</div>
+              <div class="ui"><img src="./user-red.png" alt="" /></div>
+              <div class="date">28 Dec</div>
+              <div class="oval" id="yellow"></div>
+            </div>
+          </div>
+        </div>
+        <div class="right-side">
+          <img src="./landing-section-image.png" />
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div style="float: left;">EdYoda </div>
+      <div style="float: right;">Page created </div>
+    </footer>
+  </body>
+</html>
